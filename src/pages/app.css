@@ -1,0 +1,31 @@
+.body{
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+.bg-img{
+    background-image: url('https://i.pinimg.com/originals/dd/b7/d2/ddb7d26375807f772c47b7df57a15395.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.bg-img-2{
+    background-image: url('https://thumbs.gfycat.com/AccurateScrawnyAnkole-size_restricted.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
